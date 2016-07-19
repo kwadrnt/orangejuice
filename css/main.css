@@ -1,0 +1,92 @@
+/*navigation*/
+nav {
+	height: 80px;
+	background-color: #FE7E00;
+}
+nav .logo {
+	color: #FE7E00;
+	line-height: 20px;
+	font-size: 24px;
+	float: left;
+	padding: 15px 15px 15px 35px;
+	margin-top: 15px;
+	font-weight: bold;
+	width: 150px;
+}
+nav ul {
+	float: right;
+	padding: 15px 35px;
+	padding-right: 15px;
+	font-size: 14px;
+	margin-top: 20px;
+	font-weight: bold;
+	font-family: arial;
+}
+nav ul li {
+	display: inline-block;
+	list-style-type: circle;
+	padding: 1px;
+}
+nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+header form {
+	float: right;
+    clear: both;
+    padding-right: 20px;
+}
+section {
+	height: 503px;
+}
+section div img {
+	width: 40%;
+	display: inline-block;
+	padding: 20px 20px 20px 100px;
+} 
+section div {
+	width: 40%;
+	float: left;
+	padding: 20px;
+}
+section div span:first-child {
+	font-weight: bold;
+	font-size: 26px;
+	color: #FE7E00;
+}
+section div span:nth-child(2), section div span:nth-child(3) {
+	font-weight: bold;
+	font-size: 26px;
+	color: #79CAC7;
+}
+section button:nth-child(1) {
+	background-color: #FE7E00;
+	padding: 20px;
+	color: #FFFFFF;
+	margin-right: 30px;
+}
+section button:nth-child(2) {
+	background-color: #79CAC7;
+	padding: 20px;
+	color: #FFFFFF;
+}
+footer {
+	height: 80px;
+	background-color: #79CAC7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	color: #FE7E00;
+}
